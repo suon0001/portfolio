@@ -119,7 +119,7 @@ export default {
           semester: "3.semester",
           description: "Webshop assignment with vuetify",
           button: "View",
-          pdfLink: "https://https://digitalgamesforgamers.netlify.app/",
+          pdfLink: "https://digitalgamesforgamers.netlify.app/",
           imgHolder:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-12-08%20at%2013.15.36.png?alt=media&token=4fcd75af-3da0-4f28-9f27-e1d845f45f2f",
         },
