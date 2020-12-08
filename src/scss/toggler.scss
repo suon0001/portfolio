@@ -1,0 +1,182 @@
+.toggle-wrapper {
+    display: inline-block;
+    position: absolute;
+    margin-top: -100px;
+    right: 80px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 25px;
+    height: 34px;
+    width: 60px;
+  }
+  
+  .toggle {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    right: 40px;
+    top: 50px;
+  }
+
+  .toggle input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .toggler {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #221156 !important;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+  
+  .toggler:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background: #ffffff;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+  
+  input:checked + .toggler {
+    background: #962424 !important;
+  }
+  
+  input:focus + toggler {
+    box-shadow: 0 0 2px map-get($lightTheme, secondary);
+  
+  }
+  
+  input:checked + .toggler:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  .toggler.round {
+      border-radius: 34px;
+  }
+
+  .toggler.round:before {
+      border-radius: 34px;
+  }
+
+  .dark #golden {
+    filter: grayscale(80%);
+    visibility: hidden;
+  }
+  
+  .dark #moon {
+     visibility: visible;
+  }
+  
+  .dark #scrollLeftB {
+    visibility: visible;
+  }
+  
+  .dark #scrollLeft {
+    visibility: hidden;
+  }
+  
+  .dark #scrollRightB{
+    visibility: visible;
+  }
+  
+  .dark #scrollLRight {
+    visibility: hidden;
+  }
+  
+  .dark #designTop{
+    filter: brightness(60%)
+  }
+  
+  .dark #designBottom{
+    filter: brightness(60%)
+  }
+  
+  .dark #cards {
+    background: map-get($darkTheme, third);
+  }
+  
+  .dark #text--size {
+    display: inline;
+    line-height: 250px;
+    font-size: 20px;
+    color: map-get($darkTheme, text2) !important;
+    text-shadow: 2px 2px map-get($darkTheme, third);
+  }
+  
+  .dark #explore {
+    color: map-get($darkTheme, text2);
+  }
+  
+  .dark #return {
+    filter: grayscale(100%);
+  }
+
+  #darkP {
+    background-color: map-get($lightTheme, third);
+  }
+  
+  .dark #darkP {
+    background-color: map-get($darkTheme , third);
+  }
+  
+  #profilP {
+  background-color: map-get($lightTheme, text2);
+  }
+  
+  .dark #profilP {
+  background-color: map-get($darkTheme, text2);
+  }
+  
+  #return {
+    width: 30px;
+  }
+
+  #by, #descrip  {
+    color: map-get($lightTheme, text1);
+  }
+  
+  .dark #by, .dark #descrip, .dark .headline {
+    color: map-get($darkTheme, text1);
+  }
+  
+
+  .dark #iconHeart, .dark #iconFace, .dark #buttonText {
+    color: map-get($darkTheme, text2);
+  }
+
+  .dark #nameD {
+    margin-top: -100px;
+    margin-left: 100px;
+    width: 250px;
+    height: 100px;
+    visibility: visible;
+  }
+
+  #nameD {
+    margin-top: -100px;
+    margin-left: 100px;
+    width: 250px;
+    height: 100px;
+    visibility: hidden;
+  }
+
+  .dark #name {
+    visibility: hidden;
+  }
+
+
+  

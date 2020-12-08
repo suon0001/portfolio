@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="130" viewBox="193.5 135 300 130">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 72px;
+        fill: silver;
+        text-anchor: middle;
+        font-family: Baskerville;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <text id="MyPortfolio" class="cls-1" x="344.629" y="233.168"><tspan x="344.629">MyPortfolio</tspan></text>
+</svg>

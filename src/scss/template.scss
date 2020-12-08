@@ -1,0 +1,53 @@
+#golden {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 80px;
+  transform: rotate(-10deg);
+  
+}
+
+#moon {
+  visibility: hidden;
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 70px;
+
+}
+
+#scrollLeft {
+  position: absolute;
+  margin-top: -67px;
+  margin-left: -30px;
+  height: 770px;
+  z-index: 1;
+}
+
+#scrollLeftB {
+  position: absolute;
+  margin-top: -67px;
+  margin-left: -30px;
+  height: 770px;
+  z-index: 1;
+  visibility: hidden;
+}
+
+#scrollRight {
+  position: absolute;
+  margin-top: -67px;
+  right: -30px;
+  height: 770px;
+  z-index: 1;
+}
+
+#scrollRightB {
+  position: absolute;
+  margin-top: -67px;
+  right: -30px;
+  height: 770px;
+  z-index: 1;
+  visibility: hidden;
+}
+
+
+
+
