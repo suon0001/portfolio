@@ -94,7 +94,7 @@ export default {
           id: 5,
           headline: "Website Assignment",
           semester: "1.semester",
-          description: "Mandatory Assignment 2019",
+          description: "First website with only use of HTML & CSS 2019",
           button: "View",
           pdfLink:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-07%20at%2007.5.pdf?alt=media&token=1098b2d6-3751-4f0a-ac7a-667c822ca14b",
@@ -135,6 +135,18 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Me.png?alt=media&token=e6f5c6f5-4570-497d-a81c-fbfc9c8b8bb3",
           imgHolder:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.37.13.png?alt=media&token=42707d38-97a6-451d-91a7-0acdcd54de26"
+        },
+
+           {
+          id: 9,
+          headline: "Webshop",
+          semester: "3.semester",
+          description: "Webshop assignment with vuetify",
+          button: "View",
+          pdfLink:
+            "https://https://digitalgamesforgamers.netlify.app/",
+          imgHolder:
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-12-08%20at%2013.15.36.png?alt=media&token=4fcd75af-3da0-4f28-9f27-e1d845f45f2f"
         }
       ]
     };
