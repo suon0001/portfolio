@@ -73,7 +73,7 @@ export default {
           description: "A VR Escape room game",
           button: "Download",
           pdfLink:
-            "gs://portfolio-mmd-2020.appspot.com/Build.zip",
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Build.zip?alt=media&token=10f93e81-18cb-49db-a290-9bc0b25c3cef",
           imgHolder:
             ""
         },
