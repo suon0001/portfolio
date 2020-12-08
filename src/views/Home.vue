@@ -75,7 +75,7 @@ export default {
           pdfLink:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Build.zip?alt=media&token=10f93e81-18cb-49db-a290-9bc0b25c3cef",
           imgHolder:
-            ""
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/f9172c0ecd76d38961986844b80355ac.png?alt=media&token=0fe5ffed-a03d-4ec2-9a73-e53d60df03a2"
         },
 
                 {
