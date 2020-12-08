@@ -68,21 +68,21 @@ export default {
 
         {
           id: 3,
-          headline: "Business Card",
-          semester: "2.semester",
-          description: "Simple Business card 2020",
-          button: "View",
+          headline: "Area 51",
+          semester: "3.semester",
+          description: "A VR Escape room game",
+          button: "Download",
           pdfLink:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Business%20Card.pdf?alt=media&token=9c14fa64-0c9e-40db-8929-273c79ae43b5",
+            "gs://portfolio-mmd-2020.appspot.com/Build.zip",
           imgHolder:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.31.10.png?alt=media&token=520450ab-11c8-42a9-b2ac-fd9f89043a78"
+            ""
         },
 
                 {
           id: 4,
           headline: "Charactor Animator",
           semester: "3.semester",
-          description: "",
+          description: "Charactor animation",
           button: "Download",
           pdfLink:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Kunstner%20Boksen%20Animation.mp4?alt=media&token=63943c0c-37ac-4897-92f9-c235cf5ee3ee",
@@ -94,7 +94,7 @@ export default {
           id: 5,
           headline: "Website Assignment",
           semester: "1.semester",
-          description: "First website with only use of HTML & CSS 2019",
+          description: "Images of my first website with only use of HTML & CSS 2019",
           button: "View",
           pdfLink:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-07%20at%2007.5.pdf?alt=media&token=1098b2d6-3751-4f0a-ac7a-667c822ca14b",
@@ -104,18 +104,6 @@ export default {
 
         {
           id: 6,
-          headline: "Get Going",
-          semester: "2.semester",
-          description: "Get Going Moodboard 2020",
-          button: "View",
-          pdfLink:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Moodboard.png?alt=media&token=2f5e75f2-c652-4dc8-b2d9-1d7d7b3b422c",
-          imgHolder:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Moodboard.png?alt=media&token=2f5e75f2-c652-4dc8-b2d9-1d7d7b3b422c"
-        },
-
-        {
-          id: 7,
           headline: "Day Night",
           semester: "2.semester",
           description: "Animation for the infomercial video 2020",
@@ -126,7 +114,7 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2012.19.13.png?alt=media&token=fff2d875-a0f7-437b-9203-b1e9a2093615"
         },
         {
-          id: 8,
+          id: 7,
           headline: "Mini Me",
           semester: "1.semester",
           description: "One of my first projects, Mini Me 2019",
@@ -138,7 +126,7 @@ export default {
         },
 
            {
-          id: 9,
+          id: 8,
           headline: "Webshop",
           semester: "3.semester",
           description: "Webshop assignment with vuetify",
