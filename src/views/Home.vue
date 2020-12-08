@@ -132,11 +132,11 @@ export default {
 <style lang="scss">
 #product {
   display: grid;
-  grid-template-columns: 450px 450px 450px 450px;
+  grid-template-columns: 60vh 60vh 60vh 60vh;
   grid-template-rows: repeat(2);
-  grid-gap: 50px 40px;
-  padding-top: 50px;
-  padding-left: 100px;
+  grid-gap: 10vh 5vh;
+  padding-top: 4vh;
+  padding-left: 6vh;
   overflow-x: scroll;
   overflow-y: hidden;
 }

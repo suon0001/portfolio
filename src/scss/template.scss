@@ -1,7 +1,7 @@
 #golden {
   position: absolute;
-  margin-left: 500px;
-  margin-top: 80px;
+  margin-left: 60vh;
+  margin-top: 10vh;
   transform: rotate(-10deg);
   
 }
@@ -9,8 +9,8 @@
 #moon {
   visibility: hidden;
   position: absolute;
-  margin-left: 450px;
-  margin-top: 70px;
+  margin-left: 60vh;
+  margin-top: 10vh;
 
 }
 
@@ -18,7 +18,7 @@
   position: absolute;
   margin-top: -67px;
   margin-left: -30px;
-  height: 770px;
+  height: 100vh;
   z-index: 1;
 }
 
@@ -26,7 +26,7 @@
   position: absolute;
   margin-top: -67px;
   margin-left: -30px;
-  height: 770px;
+  height: 100vh;
   z-index: 1;
   visibility: hidden;
 }
@@ -35,7 +35,7 @@
   position: absolute;
   margin-top: -67px;
   right: -30px;
-  height: 770px;
+  height: 100vh;
   z-index: 1;
 }
 
@@ -43,7 +43,7 @@
   position: absolute;
   margin-top: -67px;
   right: -30px;
-  height: 770px;
+  height: 100vh;
   z-index: 1;
   visibility: hidden;
 }

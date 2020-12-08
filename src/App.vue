@@ -55,7 +55,7 @@ export default {
 #designTop {
   background-size: cover;
   margin-top: -5px;
-  height:45px;
+  height:5vh;
   width:100vw;
   background-image: url('./assets/chinese_design.svg') ;
 }
@@ -64,7 +64,7 @@ export default {
   background-size: cover;
   position: absolute;
   bottom: 0;  
-  height:45px;
+  height:5vh;
   width:100vw;
   background-image: url('./assets/chinese_design.svg') ;
 }
@@ -79,10 +79,10 @@ export default {
 
 
 .app {
-  margin-top: 65px;
+  margin-top: 8vh;
   display: flex;
   flex-direction: column;
-  height: 630px;
+  height: 83vh;
   max-width: 100%;
   position: absolute;  
 }
