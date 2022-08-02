@@ -51,7 +51,7 @@ export default {
           description: "PWA June 2022",
           button: "View",
           pdfLink:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Silkk-API-main.zip?alt=media&token=73041967-3322-4c13-801b-80227ae9d899",
+            "https://silkk.netlify.app/#/",
           imgHolder:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/silkk.PNG?alt=media&token=4e268aa8-e8df-4689-9fa5-ddf179b35679",
         },
