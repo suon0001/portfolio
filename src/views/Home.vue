@@ -44,8 +44,8 @@ export default {
   data() {
     return {
       products: [
-        {
-          id: 1,
+          {
+          id: 8,
           headline: "CV",
           semester: "2.semester",
           description: "CV December 2020",
@@ -56,7 +56,18 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.34.27.png?alt=media&token=d712ebb9-9d69-4077-99cc-ac5a04ba7672",
         },
         {
-          id: 2,
+          id: 7,
+          headline: "CV",
+          semester: "2.semester",
+          description: "CV December 2020",
+          button: "View",
+          pdfLink:
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Application.pdf?alt=media&token=1f9c5b0b-243c-4998-8c16-f48ec35a7d5f",
+          imgHolder:
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.34.27.png?alt=media&token=d712ebb9-9d69-4077-99cc-ac5a04ba7672",
+        },
+        {
+          id: 6,
           headline: "Area 51",
           semester: "3.semester",
           description: "A VR Escape room game made in Unity",
@@ -67,7 +78,7 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/f9172c0ecd76d38961986844b80355ac.png?alt=media&token=0fe5ffed-a03d-4ec2-9a73-e53d60df03a2",
         },
         {
-          id: 3,
+          id: 5,
           headline: "Charactor Animator",
           semester: "3.semester",
           description: "Charactor animation",
@@ -92,7 +103,7 @@ export default {
         },
 
         {
-          id: 5,
+          id: 3,
           headline: "Day Night",
           semester: "2.semester",
           description: "Animation for the infomercial video 2020",
@@ -103,7 +114,7 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2012.19.13.png?alt=media&token=fff2d875-a0f7-437b-9203-b1e9a2093615",
         },
         {
-          id: 6,
+          id: 2,
           headline: "Mini Me",
           semester: "1.semester",
           description: "One of my first projects, Mini Me 2019",
@@ -114,7 +125,7 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.37.13.png?alt=media&token=42707d38-97a6-451d-91a7-0acdcd54de26",
         },
         {
-          id: 7,
+          id: 1,
           headline: "Webshop",
           semester: "3.semester",
           description: "Webshop assignment with vuetify",
