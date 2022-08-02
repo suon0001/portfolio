@@ -46,14 +46,14 @@ export default {
       products: [
           {
           id: 8,
-          headline: "CV",
+          headline: "SILKK",
           semester: "2.semester",
-          description: "CV December 2020",
+          description: "PWA June 2022",
           button: "View",
           pdfLink:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Application.pdf?alt=media&token=1f9c5b0b-243c-4998-8c16-f48ec35a7d5f",
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Silkk-API-main.zip?alt=media&token=73041967-3322-4c13-801b-80227ae9d899",
           imgHolder:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.34.27.png?alt=media&token=d712ebb9-9d69-4077-99cc-ac5a04ba7672",
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/silkk.PNG?alt=media&token=4e268aa8-e8df-4689-9fa5-ddf179b35679",
         },
         {
           id: 7,
