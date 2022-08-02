@@ -44,6 +44,17 @@ export default {
   data() {
     return {
       products: [
+                {
+          id: 9,
+          headline: "Swagger",
+          semester: "2.semester",
+          description: "Database May 2022",
+          button: "View",
+          pdfLink:
+            "https://heroku-deploy-zodiac.herokuapp.com/api/docs/",
+          imgHolder:
+            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/swagger.PNG?alt=media&token=e71aed8b-3223-4df6-871e-87bf54071a90",
+        },
           {
           id: 8,
           headline: "SILKK",
