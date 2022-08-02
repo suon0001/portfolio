@@ -5,7 +5,7 @@
       v-for="(product, index) in products"
       :key="index"
       class="mx-auto"
-      max-width="450"
+      max-width="850"
     >
       <v-img
         id="imgShade"
