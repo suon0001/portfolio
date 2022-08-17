@@ -67,17 +67,6 @@ export default {
             "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/silkk.PNG?alt=media&token=4e268aa8-e8df-4689-9fa5-ddf179b35679",
         },
         {
-          id: 7,
-          headline: "CV",
-          semester: "2.semester",
-          description: "CV December 2020",
-          button: "View",
-          pdfLink:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Application.pdf?alt=media&token=1f9c5b0b-243c-4998-8c16-f48ec35a7d5f",
-          imgHolder:
-            "https://firebasestorage.googleapis.com/v0/b/portfolio-mmd-2020.appspot.com/o/Screenshot%202020-05-06%20at%2009.34.27.png?alt=media&token=d712ebb9-9d69-4077-99cc-ac5a04ba7672",
-        },
-        {
           id: 6,
           headline: "Area 51",
           semester: "3.semester",
